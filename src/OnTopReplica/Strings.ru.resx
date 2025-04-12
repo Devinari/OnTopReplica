@@ -437,6 +437,9 @@
   <data name="MenuOp25TT" xml:space="preserve">
     <value>Делает программу прозрачной на 25%.</value>
   </data>
+  <data name="MenuOp85TT" xml:space="preserve">
+    <value>Делает программу прозрачной на 85%.</value>
+  </data>
   <data name="MenuOp50" xml:space="preserve">
     <value>50%</value>
   </data>
